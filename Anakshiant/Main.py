@@ -1,4 +1,4 @@
-##shoiwing main content of project
+##updated by aaku yadav
 import speech_recognition as sr
 import time
 t1=time.time()
